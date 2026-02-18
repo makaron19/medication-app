@@ -1,0 +1,1 @@
+package jp.suzuki.medapp.service;
